@@ -5,6 +5,26 @@
     "branch": "master"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://moussaouifawzi.github.io",
+    "hubpress": "https://moussaouifawzi.github.io",
+    "theme": "//moussaouifawzi.github.io/themes/casper",
+    "images": "https://moussaouifawzi.github.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ],
+    "_compiled": true,
+    "beforeCreate": [
+      null
+    ]
   }
 }
